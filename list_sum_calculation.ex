@@ -1,7 +1,7 @@
 defmodule ListSumCalculation do
 
   @doc"""
-  	sum_calculation_1 - is a function that calculates the sum of all elements list.
+  	sum_calculation_1 - is a function that calculates the sum of all list elements.
   	The main specific of this function is that it works with tail recursion.
   	In the each iteration we select first element from list -> check if it a list,
   	if `yes` -> calculate sum of this list
@@ -31,8 +31,8 @@ defmodule ListSumCalculation do
 
   @doc"""
   	sum_calculation_2 - is a function that calculates the sum of all elements list.
-  	In the first step I flattens the given list of nested lists.
-  	In the second step I calculate sum of nested lists
+  	In the first step - flattened the given list of nested lists.
+  	In the second step - calculate sum of nested lists
 
   	Examples:
 
