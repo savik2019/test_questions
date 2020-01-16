@@ -1,6 +1,6 @@
 # Questions for Elixir developers
 
-2.  Have you worked with GenStage or Flow before? If so, can you explain why and how you implemented these?
+1.  Have you worked with GenStage or Flow before? If so, can you explain why and how you implemented these?
 
     For this time I have not used GenStage and Flow in applications for production. But if speak what is this and when I will use them I can say:
     
